@@ -76,3 +76,7 @@ Text类：
 	   bos.close();
  # 实验结果
 ![](https://github.com/2020322107LXM/Stuents-Work/blob/main/%E6%88%AA%E5%9B%BE1607434904.png)
+![](https://github.com/2020322107LXM/Stuents-Work/blob/main/%E6%88%AA%E5%9B%BE1607434946.png)
+
+# 实验感想
+在本次实验中，碰到了许多问题，如实例化某学生时无法成功、不会用命令来读写文件、不会设计查询汉字的命令。在同学的帮助下，问题一一解决，但我是似懂非懂，在今后的学习中我将会继续努力。
