@@ -16,6 +16,7 @@
   用如下语句实现交互式方式实例化学生
   
  	Student stu=new Student();
-		Scanner s=new Scanner(System.in);
+	Scanner s=new Scanner(System.in);
   结果如下：
-![](https://github.com/2020322107LXM/Stuents-Work/blob/main/%E6%88%AA%E5%9B%BE1607434904.png)
+  
+	![](https://github.com/2020322107LXM/Stuents-Work/blob/main/%E6%88%AA%E5%9B%BE1607434904.png)
